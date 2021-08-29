@@ -1,0 +1,24 @@
+,Ward Name,Kanji,Population,Density (/Km2),Ward Area (Km2),Major District,Ward Latitude,Ward Longtitude
+0,Chiyoda,千代田区,59441,5100,1166,"Nagatacho, Kasumigaseki, Ōtemachi, Marunouchi, Akihabara, Yūrakuchō, Iidabashi, Kanda",35.6938097,139.7532163
+1,Chuo,中央区,147620,14460,1021,"Nihonbashi, Kayabachō, Ginza, Tsukiji, Hatchōbori, Shinagawa, Tsukishima, Kachidoki, Tsukuda",35.666255,139.775565
+2,Minato,港区,248071,12180,2037,"Odaiba, Shinbashi, Hamamatsuchō, Mita, Roppongi, Toranomon, Aoyama, Azabu, Akasaka",35.6432274,139.7400553
+3,Shinjuku,新宿区,339211,18620,1822,"Shinjuku, Takadanobaba, Ōkubo, Kagurazaka, Ichigaya, Yotsuya, Sendagaya, Yoyogi",35.6937632,139.7036319
+4,Bunkyo,文京区,223389,19790,1129,"Hongo, Yayoi, Hakusan",35.71881,139.744732
+5,Taito,台東区,200486,19830,1011,"Ueno, Asakusa",35.71745,139.790859
+6,Sumida,墨田区,260358,18910,1377,"Kinshicho, Morishita, Ryōgoku",35.700429,139.805017
+7,Koto,江東区,502579,12510,4016,"Kiba, Ariake, Kameido, Tōyōchō, Monzennakachō, Fukagawa, Kiyosumi, Shirakawa, Etchūjima, Sunamachi, Aomi",35.649154,139.81279
+8,Shinagawa,品川区,392492,17180,2284,"Shinagawa, Gotanda, Ōsaki, Hatanodai, Ōimachi, Tennōzu",35.599252,139.73891
+9,Meguro,目黒区,280283,19110,1467,"Meguro, Nakameguro, Jiyugaoka, Komaba, Aobadai",35.62125,139.688014
+10,Ota,大田区,722608,11910,6066,"Omori, Kamata, Haneda, Den-en-chōfu",-45.1299859,169.5248818
+11,Setagaya,世田谷区,910868,15690,5805,"Shimokitazawa, Kinuta, Karasuyama, Tamagawa",35.646096,139.65627
+12,Shibuya,渋谷区,227850,15080,1511,"Shibuya, Ebisu, Harajuku, Daikanyama, Hiroo",35.6645956,139.6987107
+13,Nakano,中野区,332902,21350,1559,Nakano,35.718123,139.664468
+14,Suginami,杉並区,570483,16750,3406,"Koenji, Asagaya, Ogikubo",35.6994929,139.6362876
+15,Toshima,豊島区,294673,22650,1301,"Ikebukuro, Komagome, Senkawa, Sugamo",35.736156,139.714222
+16,Kita,北区,345063,16740,2061,"Akabane, Ōji, Tabata",-0.2201641,-78.5123274
+17,Arakawa,荒川区,213648,21030,1016,"Arakawa, Machiya, Nippori, Minamisenju",35.737529,139.78131
+18,Itabashi,板橋区,569225,17670,3222,"Itabashi, Takashimadaira",35.774143,139.681209
+19,Nerima,練馬区,726748,15120,4808,"Nerima, Ōizumi, Hikarigaoka",35.74836,139.638735
+20,Adachi,足立区,674067,12660,5325,"Ayase, Kitasenju, Takenotsuka",35.783703,139.795319
+21,Katsushika,葛飾区,447140,12850,3480,"Tateishi, Aoto, Kameari, Shibamata",35.751733,139.863816
+22,Edogawa,江戸川区,685899,13750,4990,"Kasai, Koiwa",35.678278,139.871091
